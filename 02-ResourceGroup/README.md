@@ -1,4 +1,4 @@
-# AzureTerraform-1
+# Resource Group
 
 1. Define a Resource Group: You create a Resource Group by specifying its name, location, and any optional tags. In Terraform, you can define this using the Azure Resource Manager (ARM) provider.
 

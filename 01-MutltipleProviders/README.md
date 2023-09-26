@@ -1,4 +1,4 @@
-# AzureTerraform-1
+# Multiple Providers
 
 - Terraform Block: This block sets the required version of Terraform and specifies the required providers. In this case, it requires version 0.15 or higher and uses the azurerm provider with a version constraint of ">= 2.0".
 
